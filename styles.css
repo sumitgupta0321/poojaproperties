@@ -31,15 +31,12 @@ nav {
     margin: 0 auto;
 }
 
-.logo h1 {
-    color: #2c3e50;
-    font-size: 1.8rem;
-    font-weight: 700;
-    transition: color 0.3s ease;
-}
 
-.logo h1:hover {
-    color: #e74c3c;
+.logo img {
+    height: 80px;
+    width: 160px;
+    object-fit: contain;
+    margin: -15px 0;
 }
 
 .nav-links {
